@@ -1,0 +1,40 @@
+const companies = [
+    {
+        id: "22487",
+        company: "Wash station",
+        phone_number: "+216 24486642",
+        address: "Ariana 2092 Tunisie",
+        lng: "51",
+        lat: "700",
+        governorat: "Ariana",
+        delegation: "Borj louzir",
+        m_f: "1651654/M",
+        date_joined: "08/10/2020",
+    },
+    {
+        id: "22487",
+        company: "Wash station 2",
+        phone_number: "+216 24486642",
+        address: "Tunis ",
+        lng: "51",
+        lat: "700",
+        governorat: "Tunis",
+        delegation: "Tunis",
+        m_f: "154694/M",
+        date_joined: "08/10/2020",
+    },
+    {
+        id: "22487",
+        company: "Wash station 3",
+        phone_number: "+216 24486642",
+        address: "Nabel, hammamet ",
+        lng: "51",
+        lat: "700",
+        governorat: "Nabel",
+        delegation: "Hammamet",
+        m_f: "154694/M",
+        date_joined: "08/10/2020",
+    },
+]
+
+export default companies;

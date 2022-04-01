@@ -1,0 +1,55 @@
+const cars = [
+    {
+        id: "22487",
+        status: "Requested",
+        name: "List 1",
+        car_owner: "Walid",
+        car_type: "SUV",
+        governorat: "Ariana",
+        delegation: "borj louzir",
+        date_joined: "08/10/2020",
+    },
+    {
+        id: "22487",
+        status: "Accepted",
+        name: "List 1",
+        car_owner: "Yassine",
+        car_type: "Berline",
+        governorat: "Ariana",
+        delegation: "borj louzir",
+        req_views: "68541",
+        cur_views: "350",
+        date_joined: "08/10/2020",
+        expire_at: "29/01/20200",
+    },
+    {
+        id: "22487",
+        status: "Requested",
+        name: "List 1",
+        car_owner: "Oumaima",
+        car_type: "GT",
+        governorat: "Ariana",
+        delegation: "borj louzir",
+        req_views: "68541",
+        cur_views: "350",
+        date_joined: "08/10/2020",
+        expire_at: "29/01/20200",
+    },
+    {
+        id: "22487",
+        status: "Accepted",
+        name: "List 1",
+        car_owner: "Asma",
+        car_type: "Racing",
+        governorat: "Ariana",
+        delegation: "borj louzir",
+        req_views: "68541",
+        cur_views: "350",
+        date_joined: "08/10/2020",
+        expire_at: "29/01/20200",
+    },
+
+
+]
+
+export default cars;
